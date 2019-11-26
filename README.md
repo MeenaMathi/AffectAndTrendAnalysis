@@ -28,4 +28,4 @@ Other files needed:
     > twitter_keys (property file to use twitter account)
     
 
-More details in read_me.txt
+More details in read_me
