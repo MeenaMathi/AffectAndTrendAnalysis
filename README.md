@@ -26,3 +26,6 @@ Other files needed:
     > anger.words, fear.words, joy.words, sadness.words (Query words from CodaLab),
     > NRC-AffectIntensity-Lexicon.txt, NRC-Emotion-Lexicon-Worldlevel-v0.92.txt, NRC-Hashtag-Emotion-Lexicon-v0.2.txt (Emotion Lexicon),
     > twitter_keys (property file to use twitter account)
+    
+
+More details in readMe.txt
